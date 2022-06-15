@@ -5,7 +5,7 @@ published: true
 image: img/hacc-hui/hacc.png
 title: HACC-Hui
 permalink: projects/hacc-hui
-date: 2020, 2021
+date: 2020 - 2021
 labels:
 - Meteor
 - Semantic UI
