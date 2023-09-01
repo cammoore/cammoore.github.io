@@ -1,0 +1,300 @@
+{
+  "basics": {
+    "name": "Carleton (Cam) Moore",
+    "label": "Assistant Professor",
+    "picture": "https://cammoore.github.io/img/cam-moore.jpg",
+    "email": "cmoore@hawaii.edu",
+    "phone": "808-956-6920",
+    "website": "https://cammoore.github.io",
+    "summary": "I am an Assistant Professor teaching Introduction to Computer Science in the Department of Information and Computer Sciences at the University of Hawaii, Manoa.",
+    "location": {
+      "address": "1680 East-west Rd POST 307",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "cammoore",
+        "url": "http://github.com/cammoore"
+      },
+      {
+        "network": "linkedin",
+        "username": "cam-moore-9a5213",
+        "url": "http://www.linkedin.com/in/cam-moore-9a5213"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Educating Students",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "Java",
+        "ECMAScript",
+        "Typescript",
+        "Python",
+        "C++",
+        "Common Lisp"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Windows",
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "Intellij IDEA",
+        "Emacs",
+        "Meteor",
+        "React"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Manoa, HI",
+      "area": "Communication and Information Sciences",
+      "studyType": "Ph.D.",
+      "startDate": "1996-08-12",
+      "endDate": "2000-05-13",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Manoa, HI",
+      "area": "Information and Computer Sciences",
+      "studyType": "M.S.",
+      "startDate": "1993-01-15",
+      "endDate": "1995-05-13",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Colorado, Boulder, CO",
+      "area": "Electrical Engineering and Computer Science",
+      "studyType": "B.S.",
+      "startDate": "1983-09-01",
+      "endDate": "1988-05-13",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Department of Information and Computer Sciences at the University of Hawaii",
+      "position": "Assistant Professor",
+      "website": "http://www.ics.hawaii.edu/",
+      "startDate": "2013-09-01",
+      "endDate": "Present",
+      "summary": "Teaching ICS 111, 211, 314, and 414",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Collaborative Software Development Laboratory, (CSDL)",
+      "position": "Senior Software Engineering Researcher",
+      "website": "http://csdl.ics.hawaii.edu/",
+      "startDate": "2011-12-31",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Helped design, develop, test and deploy RadGrad and RadGrad2: Developing awesome computer scientists, one graduate at a time.",
+        "Helped design, develop and test Makahiki2 an open source serious game engine for sustainability.",
+        "Helped design, develop and test WattDepot an open source service for collection, storage, analysis, and visualization of energy data."
+      ]
+    },
+    {
+      "company": "Lockheed Martin",
+      "position": "Senior Software Engineer",
+      "website": "http://www.lockheedmartin.com",
+      "startDate": "2004-02-01",
+      "endDate": "2011-11-01",
+      "summary": "Software Engineer on various projects.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Orincon",
+      "position": "Senior Software Engineer",
+      "startDate": "2000-11-01",
+      "endDate": "2004-02-01",
+      "summary": "Software Engineer on various Information Assurance projects.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Pacific International Center for High Technology Research (PICHTR)",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "1995-05-01",
+      "endDate": "1996-05-01",
+      "summary": "Designed, developed, and tested World Wide Web systems for the State of Hawaii.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Collaborative Software Development Laboratory, (CSDL)",
+      "position": "Research Assistant",
+      "website": "http://csdl.ics.hawaii.edu/",
+      "startDate": "1993-09-01",
+      "endDate": "2000-06-01",
+      "summary": "Designed, developed, tested and evaluated Project LEAP, the Annotated Egret Navigator, and HBS hypermedia database.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "United States Army, Ft. Polk, La.",
+      "position": "Lieutenant",
+      "website": "",
+      "startDate": "1989-05-13",
+      "endDate": "1992-10-01",
+      "summary": "Assistant Staff Officer for Intelligence and Security 2nd BDE 5th ID, Platoon Leader A Co, 105 MI Battalion",
+      "highlights": [
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Design and evaluation of the Makahiki open source serious game framework for sustainability education",
+      "type": "bookchapter",
+      "author": "Y. Xu, P.  Johnson, G. Lee, C. Moore, and R. Brewer",
+      "publisher": "In: Sustainability, Green IT and Education Strategies in the 21st Century",
+      "releaseDate": "September, 2016",
+      "website": "http://csdl.ics.hawaii.edu/techreports/2016/16-03/16-03.pdf",
+      "summary": ""
+    },
+    {
+      "name": "Makahiki: An open source serious game framework for sustainability education and conservation",
+      "author": "Y. Xu, P. Johnson, G. Lee, C. Moore, R. Brewer",
+      "type": "conference",
+      "publisher": "Proceedings of the 2014 International Conference on Sustainability, Technology, and Education",
+      "releaseDate": "December, 2014",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Three principals for the design of energy feedback visualizations",
+      "author": "R.Brewer, Y. Xu, G. Lee, M. Katchuck, C. Moore, P. Johnson",
+      "type": "journal",
+      "publisher": "International Journal on Advances in Intelligent Systems",
+      "releaseDate": "December, 2013",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Energy Feedback for Smart Grid Consumers: Lessons Learned from the Kukui Cup",
+      "author": "R. Brewer, Y. Xu, G. Lee, M. Katchuck, C. Moore, P. Johnson",
+      "type": "conference",
+      "publisher": "Proceedings of Energy 2013",
+      "releaseDate": "March 2013",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Makahiki+WattDepot: An open source software stack for next generation energy research and education",
+      "author": "P. Johnson, Y Xu, R. Brewer, C. Moore, G. Lee, A. Conell",
+      "type": "conference",
+      "publisher": "Proceedings of the 2013 Conference on Information and Communication Technologies for Sustainability (ICT4S)",
+      "releaseDate": "February 2013",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Beyond kWh: Myths and fixes for energy competition game design",
+      "author": "P. Johnson, Y Xu, R. Brewer, G. Lee, M. Katchuck, C. Moore",
+      "type": "conference",
+      "publisher": "Proceedings of Meaningful Play 2012",
+      "releaseDate": "October 2012",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Empirically Guided Software Effort Guesstimation",
+      "author": "P. Johnson, C. Moore, J. Dane, R. Brewer",
+      "type": "journal",
+      "publisher": "IEEE Software, Vol. 17, No. 6",
+      "releaseDate": "December 2000",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Lessons Learned from Teaching Reflective Software Engineering using the Leap Toolkit",
+      "author": "C. Moore",
+      "type": "conference",
+      "publisher": "Proceedings of the 2000 International Conference on Software Engineering, Workshop on Software Engineering Education",
+      "releaseDate": "May 2000",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Project LEAP: Addressing Measurement Dysfunction in Review",
+      "author": "C. Moore",
+      "type": "conference",
+      "publisher": "Proceedings of the Eighth International Conference on Human-Computer Interaction",
+      "releaseDate": "August 1999",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Project LEAP: Personal Process Improvement for the Differently Disciplined",
+      "author": "C. Moore",
+      "type": "conference",
+      "publisher": "Proceedings of the Doctoral Workshop from the 1999 International Conference on Software Engineering",
+      "releaseDate": "May 1999",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Investigating Strong Collaboration with the Annotated Egret Navigator",
+      "author": "P. Johnson, C. Moore",
+      "type": "conference",
+      "publisher": "Proceedings of the Fourth IEEE Workshop on Enabling Technologies: Infrastructure for Collaborative Enterprises (WET-ICE '95)",
+      "releaseDate": "April 1995",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "website": "http://elections.hawaii.gov/",
+      "position": "Precinct Official",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Assisted with the 2012, 2014 and 2016 elections",
+      "highlights": [
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
